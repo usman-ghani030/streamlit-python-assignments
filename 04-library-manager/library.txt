@@ -1,0 +1,1 @@
+[{"title": "48 laws of power", "author": "robert greene", "year": "2010", "genre": "self help", "read": false}, {"title": "20 hours", "author": "joshua kaufmann", "year": "2015", "genre": "self help", "read": false}]
